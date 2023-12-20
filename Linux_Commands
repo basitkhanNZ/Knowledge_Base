@@ -1,2 +1,7 @@
+## web page
+[nyuad mount page](https://crc-docs.abudhabi.nyu.edu/hpc/storage/mount_archive.html)
+
+
+
 ## Mount jubail /archive on  ACCESS-Server
 sshfs bak8122@hpc-cng.abudhabi.nyu.edu:/archive/bak8122 /home/bak8122/work/heatIndex/UTCIr-master/monsoon/data
